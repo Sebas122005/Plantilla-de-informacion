@@ -1,0 +1,15 @@
+.container-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+}
+.cabecera-info{
+    text-align: right;
+    
+}
+.container-map{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
